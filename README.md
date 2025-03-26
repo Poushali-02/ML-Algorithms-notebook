@@ -33,10 +33,11 @@ Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/Poushali-02/ML-Algorithms-notebook.git
 cd ML-Algorithms-notebook
-
+```
 ## 🚀 Usage
 ```bash
 jupyter notebook
+```
 Open the notebooks and explore the algorithms!
 
 ## 🤝 Contributing
